@@ -1,9 +1,9 @@
 Privacy policy
 
-This Privacy Policy describes how www.thebeautycorp.co.uk (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.
+This Privacy Policy describes how this WallPaper App collects, uses, and discloses your Personal Information when you visit this Application.
 
 Collecting Personal Information
-When you visit the Site, we collect certain information about your device, your interaction with the Site, and information necessary to process your purchases. We may also collect additional information if you contact us for customer support. In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”. See the list below for more information about what Personal Information we collect and why.
+When you visit the App, we collect certain information about your device, your interaction with the Site, and information necessary to process your purchases. We may also collect additional information if you contact us for customer support. In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”. See the list below for more information about what Personal Information we collect and why.
 
 Device information
 
@@ -156,6 +156,4 @@ Changes
 We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.
 
 Contact
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [email address] or by mail using the details provided below:
-
-The Beauty Corp Ltd, Conygre Grove, 174, Bristol BS34 7HX, United Kingdom
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at hmaqib91@gmail.com.
