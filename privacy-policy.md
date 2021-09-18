@@ -16,8 +16,6 @@ Order information
 Examples of Personal Information collected: name, billing address, shipping address, payment information (including credit card numbers [INSERT ANY OTHER PAYMENT TYPES ACCEPTED]), email address, and phone number.
 Purpose of collection: to provide products or services to you to fulfill our contract, to process your payment information, arrange for shipping, and provide you with invoices and/or order confirmations, communicate with you, screen our orders for potential risk or fraud, and when in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 Source of collection: collected from you.
-Disclosure for a business purpose: shared with our processor Shopify [ADD ANY OTHER VENDORS WITH WHOM YOU SHARE THIS INFORMATION. FOR EXAMPLE, SALES CHANNELS, PAYMENT GATEWAYS, SHIPPING AND FULFILLMENT APPS].
-Customer support information
 
 Examples of Personal Information collected: [MODIFICATIONS TO THE INFORMATION LISTED ABOVE OR ADDITIONAL INFORMATION AS NEEDED]
 Purpose of collection: to provide customer support.
@@ -33,7 +31,6 @@ The Site is not intended for individuals under the age of [INSERT AGE]. We do no
 Sharing Personal Information
 We share your Personal Information with service providers to help us provide our services and fulfill our contracts with you, as described above. For example:
 
-We use Shopify to power our online store. You can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy.
 We may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 [INSERT INFORMATION ABOUT OTHER SERVICE PROVIDERS]
 [INCLUDE FOLLOWING SECTION IF USING REMARKETING OR TARGETED ADVERTISING]
@@ -46,19 +43,6 @@ As described above, we use your Personal Information to provide you with targete
 [INSERT OTHER ADVERTISING SERVICES USED]
 For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-You can opt out of targeted advertising by:
-
-[INCLUDE OPT-OUT LINKS FROM WHICHEVER SERVICES BEING USED. COMMON LINKS INCLUDE:
-
-FACEBOOK - https://www.facebook.com/settings/?tab=ads
-GOOGLE - https://www.google.com/settings/ads/anonymous
-BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads]
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
-
-Using Personal Information
-We use your personal Information to provide our services to you, which includes: offering products for sale, processing payments, shipping and fulfillment of your order, and keeping you up to date on new products, services, and offers.
-
-[INCLUDE THE FOLLOWING SECTION IF YOUR STORE IS LOCATED IN OR IF YOU HAVE CUSTOMERS IN EUROPE]
 
 LAWFUL BASIS
 Pursuant to the General Data Protection Regulation (“GDPR”), if you are a resident of the European Economic Area (“EEA”), we process your personal information under the following lawful bases:
