@@ -1,7 +1,7 @@
 Privacy policy
 
 Collecting Personal Information
-When you Fill this Form, we collect certain your personal information Like namw,emailcity etc See the list below for more information about what Personal Information we collect and why.
+When you Fill this Form, we collect certain your personal information Like name,email,city etc. See the list below for more information about what Personal Information we collect and why.
 
 BEHAVIOURAL ADVERTISING
 As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For example:
